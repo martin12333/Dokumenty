@@ -1,9 +1,23 @@
 
+# gh desktop
+
 # file:///C:\Users\marti\OneDrive\Dokumenty\0000000004\gitignore-test.f8.sh.ps1
 # file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
 
 
+# Ignore all files
 *
+
+## But not markdown files
+#!*.md
+
+!*.f[0-9].*
+!*.f1[0-9].*
+!*.publ.*
+!README.*
+
+# But not this gitignore file itself
+!.gitignore
 
 
 #OLD*/
