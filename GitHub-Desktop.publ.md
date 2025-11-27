@@ -12,6 +12,8 @@ readme.md
 bash
 git add -vv       '*.f[0-9].*'   '*.f1[0-9].*'   '*.publ.*'    'README.*'    .gitignore   LICENSE
 
+git commit  -vv   -m "backup"
+git push -u origin main
 ```
 
 init
