@@ -1,0 +1,37 @@
+
+
+# file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
+
+
+#OLD*/
+OLD*
+BIG
+
+1111/
+
+
+# ai
+
+# Windows thumbnail cache files
+Thumbs.db
+#Desktop.ini
+
+# Temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Recycle Bin used on file shares
+#$RECYCLE.BIN/
+# Windows Installer files
+
+*.tmp
+
+### *.lnk
+# desktop.ini
+
+# If you want, I can give you:
+# ✔ ready-made
+# .gitignore
+#  for markdown files
+
