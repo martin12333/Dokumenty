@@ -166,7 +166,10 @@ git init --separate-git-dir=/d/GIT-bk04/marti-onedrive.wiki.git
 
 ```
 
-git init .*--separate-git-dir
+
+
+
+# git init .*--separate-git-dir
 
 ,*.publ.*
 
@@ -199,7 +202,15 @@ it contains a README.md file and a license file
 
 
 
-how to connect GitHub Desktop to that repository?
+
+
+
+
+
+
+
+
+# how to connect GitHub Desktop to that repository?
 
 
 
