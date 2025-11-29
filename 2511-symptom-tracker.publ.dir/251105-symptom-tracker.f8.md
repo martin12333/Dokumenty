@@ -183,6 +183,69 @@ já, jako Ty,  tento týden také něco debuguju
 
 o víkendu snad napíšu víc
 
+# 2025-11-29
+
+## prompt pride 25090 251129 https://keep.google.com/#NOTE/1gQT7ckz6Kad_TTKb94KwJnmysb9Hzhe2RwuHpUcF7e6vHuOypazxbXWchET5Og
+
+
+because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”  
+
+// já
+Many people don't understand what is an antidepressant withdrawal
+
+*** Umělá inteligence GPT-2
+Many people don't understand what is an antidepressant withdrawal. This is because most people do not have any experience of antidepressant withdrawal. Most people have had one drug that they liked for a while. And they are not prepared for what the withdrawals are like. This is because they have never had this experience.
+
+
+// já
+Antidepressants cause dependence, because
+
+******* Umělá inteligence GPT-2
+...
+
+Some drugs are not considered addictive, but the user will find that it is very difficult to stop taking the drug. Examples of these drugs include methadone and buprenorphine. If a drug is used long-term, the user will find that it is very difficult to stop taking the drug. The user will also find that the drug causes an increase in depression ...
+
+
+
+
+https://keep.google.com/#NOTE/1zF_hBgR1_r22a7HiTGYRBXF873cWhVTbxDxBp8ZykEKS3KwjWU2euonqv5_dsm6xhG2l
+250831
+
+
+251129 
+
+"C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\efe9dd4c1a5a6a90b2ff8e7e56952dc03ec4b6ff73e4e18041da8fe05fcbdbe0-2025-09-27-10-43-38-ff3d3ce70b8b43a8aae6b9cc21f1eef3\ChatGPT Data Export.r8.html"
+1M uploaded file to ChatGPT
+
+
+"C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\gpt-export--250919-Android AppBlock StayFree health breaks Daily usage limit app.r8.md"
+"C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\chat-with-people-about-ai.r8.md"
+"C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\gpt-2-1-antid.txt.r8.md"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # @jb chat jde zalezt . edit last  .   klavesnice up arrow 
 
