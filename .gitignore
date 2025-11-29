@@ -9,15 +9,17 @@
 *
 # but not directories
 !*/
+# except .git directories
+*.git/
 
-## But not my publ  files
+
+
+## not ignore my publ  files
 #!*.md
 !*.f[0-9].*
 !*.f1[0-9].*
 !*.publ.*
 !README.*
-
-# But not this gitignore file itself
 !.gitignore
 
 
