@@ -13,6 +13,12 @@ this file is editable even from win milan
 https://keep.google.com/u/0/#NOTE/1w57XJBY6hzeLf0JdyX5cFti_UzbCllAlX4QRwrnSUbRwJvjQGv9YOZSUi0_oqg
 
 
+pwsh.exe -ExecutionPolicy Bypass -File  D:\0004-LINKS\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.ps1
+ C:\Users\marti\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.ps1
+fuj C:\Users\milan_rxtipwr\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.cmd
+C:\Users\marti\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.cmd
+
+
 echo '-------- section --------'
 
 

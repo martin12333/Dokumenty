@@ -57,6 +57,21 @@ windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu (SHA1: lT
 
 # first the small one Double-click the downloaded .msu file to run it.
 
+
+
+[Window Title]
+Windows Update Standalone Installer
+
+[Main Instruction]
+Windows Update Standalone Installer
+
+[Content]
+The update is not applicable to your computer. For more information, check the documentation for this update to find out if you need to install another update first.
+
+
+[OK]
+
+
 Restart your computer when prompted.
 
 
