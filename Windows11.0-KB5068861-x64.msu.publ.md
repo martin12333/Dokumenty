@@ -1,9 +1,68 @@
 Windows11.0-KB5068861-x64.msu.publ.md
 
 
-acronis is off
+# acronis is off
 
-win q restore point
+# win q restore point
+
+
+"C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\github.com--settings--keys\There are no SSH keys associated with your account"
+uz v pohode
+()()() ... musel bych gh sudo
+soukr
+github how to delete public key
+i accidentally copied private key to another computer
+
+
+
+
+# "D:\umarti\dir-b-ad-2505"
+
+C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
+
+
+d:\conda\envs\pip310ecco\Lib\site-packages\captum\insights
+
+cmd /c dir /al  d:\*link*      d:\umarti\*link*   
+cmd /c dir /a  d:\
+
+ Directory of d:\
+
+05/09/2022  18:30    <SYMLINKD>     deeUsersMilan------------Milan-link [D:\Users\milanlocal]
+               0 File(s)              0 bytes
+
+ Directory of d:\umarti
+
+05/09/2022  18:23    <SYMLINKD>     downloads----------------DOW-link [D:\umarti\dowNLOADS--SYMLINKED]
+               0 File(s)              0 bytes
+               1 Dir(s)     991,686,656 bytes free
+PS C:\Users\marti\OneDrive\Dokumenty> 
+explorer d:\
+explorer d:\umarti
+////win q trash
+win d trash
+cmd /c dir d:\
+
+
+
+d:\deeUsersMilan------------Milan-link*   d:\umarti\downloads----------------DOW-link*  /s
+  d:\deeUsersMilan------------Milan-link d:\umarti\downloads----------------DOW-link
+
+ /s
+
+\AA recycler MAZANY STORAGE SENSE 30 DNI
+
+
+\ALMA246g\var\www\www-physics\cache
+
+
+# where.exe autohotkey
+win q
+"C:\Program Files\AutoHotkey\UX\AutoHotkeyUX.exe" "C:\Program Files\AutoHotkey\UX\ui-dash.ahk"
+win q autohotkey
+
+D:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
 
 # gemini  https://gemini.google.com/app/a667feeae250091e
 
