@@ -8,12 +8,15 @@ exit
 
 echo '-------- section --------'
 
-
+this file is editable even from win milan
 
 https://keep.google.com/u/0/#NOTE/1w57XJBY6hzeLf0JdyX5cFti_UzbCllAlX4QRwrnSUbRwJvjQGv9YOZSUi0_oqg
 
 
-#  sync by hand ?!
+echo '-------- section --------'
+
+
+#  sync by hand
 
 ^s
 
@@ -24,8 +27,8 @@ win+q ise rclick admin
 File/recent
 master
 the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
-the SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
-
+a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
+a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
 
 ise ok
 File C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is disabled on this system. For mor
@@ -50,8 +53,28 @@ echo '-------- section --------'
 
 mkdir d:\2222
 mkdir d:\000doc24
+
+
+explorer i:\
+owner admi
+
+icacls i:\
+
+PS C:\WINDOWS\system32> icacls i:\
+i:\ Everyone:(OI)(CI)(RX)
+    CREATOR OWNER:(OI)(CI)(IO)(F)
+    NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+    MB-PC\milan_rxtipwr:(OI)(CI)(F)
+    BUILTIN\Administrators:(OI)(CI)(F)
+
+Successfully processed 1 files; Failed processing 0 files
+
+PS C:\WINDOWS\system32>
+
+
+
 icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
-icacls.exe   d:\000doc24 
+icacls.exe   d:\000doc24
   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'marti:(oi)(ci)(f)'
@@ -59,7 +82,7 @@ icacls.exe   d:\000doc24   /grant 'techl:(oi)(ci)(f)'
 icacls.exe   D:\umarti\OneDrive--robo   /grant 'techl:(oi)(ci)(rx)'
 
 
-#icacls.exe   d:\000doc24   /grant 
+#icacls.exe   d:\000doc24   /grant
 ######'milan
 #:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'milan_rxtipwr:(oi)(ci)(f)'
@@ -355,7 +378,7 @@ xcopy  "C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\UPnP D
  icacls C:\Users\marti
 
 icacls.exe   D:\Users\
-icacls.exe   D:\Users\marti 
+icacls.exe   D:\Users\marti
 icacls.exe   D:\Users\milanlocal
 
 icacls.exe  d:\Users\Eda\
@@ -377,8 +400,8 @@ takeown.exe /f D:\Users     /a  /r
 icacls.exe "D:\Users\marti"  /reset /t    /c  /q
 
 
-#icacls D:\.install\python /inheritance:r 
-####3333icacls D:\Users /inheritance:r 
+#icacls D:\.install\python /inheritance:r
+####3333icacls D:\Users /inheritance:r
 
 #####icacls D:\Users /grant "Authenticated Users:(OI)(CI)(RX)" "SYSTEM:(OI)(CI)(F)" "Administrators:(OI)(CI)(F)"
 #icacls D:\Users  /inheritance:r    /grant "Users:(OI)(CI)(RX)" "SYSTEM:(OI)(CI)(F)" "Administrators:(OI)(CI)(F)"
@@ -415,12 +438,12 @@ sfc /scannow
 
 tiworker is not ATI
 
-cmd /c mklink /j   "c:\Users\Eduar\OneDrive\programming stuff\EdL-pstuff-MMilan"    "C:\Users\marti\OneDrive\EdL-pstuff-MMilan"  
+cmd /c mklink /j   "c:\Users\Eduar\OneDrive\programming stuff\EdL-pstuff-MMilan"    "C:\Users\marti\OneDrive\EdL-pstuff-MMilan"
 
 
-cmd /c dir /a    C:\Users\marti\.git 
-cmd /c dir /a     C:\Users\marti\OneDrive\.git   
-cmd /c dir /a   C:\Users\milan_rxtipwr\.git     
+cmd /c dir /a    C:\Users\marti\.git
+cmd /c dir /a     C:\Users\marti\OneDrive\.git
+cmd /c dir /a   C:\Users\milan_rxtipwr\.git
 cmd /c dir /a   C:\Users\milan_rxtipwr\OneDrive\.git
 
 
@@ -487,7 +510,7 @@ diskusage.exe /a   /h   /t:10
 diskusage.exe  /f:911999888 C:\ProgramData\Microsoft\Windows\Containers
 diskusage.exe  /f:911999888 C:\Users\marti\AppData
 diskusage.exe  /f:1911999888 C:\
-diskusage.exe   /h   /t:10  
+diskusage.exe   /h   /t:10
 diskusage.exe /?
 
 echo jjjjjjjjjjjjjjjjjjjjmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
@@ -540,7 +563,7 @@ PS C:\Users\marti\OneDrive> diskusage.exe  /f:911999888 C:\Users\marti\AppData
 
 150,474,067,968/158,678,904,832  94.8% of disk in use
 
-PS C:\Users\marti\OneDrive> 
+PS C:\Users\marti\OneDrive>
 
 File C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see
  about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
@@ -580,7 +603,7 @@ lGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
 explorer C:\Users\marti\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
 explorer C:\Users\marti\AppData
 \Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
-
+win q t
 
 
       7,881,175,040           11  C:\Users\marti\AppData\Local\Packages\Canonica
@@ -628,11 +651,12 @@ a
 
 150,749,855,744/158,678,904,832  95.0% of disk in use
 
-PS C:\WINDOWS\system32> 
+PS C:\WINDOWS\system32>
 
 ##########
 #  sync by hand ?!
 #  ^a  ^c  @tab ^V
 
 the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
-the SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
+a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
+a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
