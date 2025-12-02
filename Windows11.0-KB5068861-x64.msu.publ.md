@@ -6,22 +6,17 @@ Windows11.0-KB5068861-x64.msu.publ.md
 # win q restore point
 
 
-"C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\github.com--settings--keys\There are no SSH keys associated with your account"
-uz v pohode
-()()() ... musel bych gh sudo
-soukr
-github how to delete public key
-i accidentally copied private key to another computer
 
+# 251202-rebuild-disk-d.publ.md d:\conda\envs
+d:\conda\envs\pip310ecco\Lib\site-packages\captum\insights
 
 
 
 # "D:\umarti\dir-b-ad-2505"
 
-C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
+# C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
 
 
-d:\conda\envs\pip310ecco\Lib\site-packages\captum\insights
 
 cmd /c dir /al  d:\*link*      d:\umarti\*link*   
 cmd /c dir /a  d:\
@@ -53,7 +48,10 @@ d:\deeUsersMilan------------Milan-link*   d:\umarti\downloads----------------DOW
 \AA recycler MAZANY STORAGE SENSE 30 DNI
 
 
-\ALMA246g\var\www\www-physics\cache
+
+# "D:\Users\milanlocal\alma-222-mb75-dee"
+cmd /c dir "D:\Users\milanlocal\alma-222-mb75-dee"     /s 
+////packed  \ALMA246g\var\www\www-physics\cache
 
 
 # where.exe autohotkey
@@ -64,7 +62,24 @@ win q autohotkey
 D:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 
 
-# gemini  https://gemini.google.com/app/a667feeae250091e
+# "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\github.com--settings--keys\There are no SSH keys associated with your account"
+uz v pohode
+()()() ... musel bych gh sudo
+soukr
+()()github how to delete public key
+i accidentally copied private key to another computer
+
+
+
+
+
+
+
+
+
+
+
+# gemini  https://gemini.google.com/app/a667feeae250091e    kb5068861
 
 winver 
 
