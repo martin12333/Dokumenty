@@ -424,6 +424,11 @@ Chcete, abych vám k nim doplnil účinky a použití těchto léků?</div></pre
 
 
 
+# 2025-11-30
+
+gemini canvas web application filesystem access 251130.20 publ.md
+
+when gemini canvas makes a  single-page web application in JS for me ... can it  read easily from a certain folder on my local filesystem?
 
 
 
