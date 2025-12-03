@@ -454,6 +454,28 @@ Windows.db
 
 
 
+
+
+my keyboard sends many {escape} characters when i press other keys ..
+i need ahk v1 code to define something like $esc::
+{
+	; do nothing
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # @jb chat jde zalezt . edit last  .   klavesnice up arrow 
 
 @ed 
