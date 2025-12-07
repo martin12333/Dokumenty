@@ -33,14 +33,37 @@ Uses numerical codes like '250922' to represent both the date (22 September 2025
 # 251207 redoing samsung repair request from 251029~
 
 
+https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
+
+
+
 
 # https://mail.google.com/chat/u/0/#chat/space/AAAA2NU9Pu0/qartGwv8DOo/qartGwv8DOo
 
 samsung     chrome://chrome-urls   
   https://mail.google.com/chat/u/0/#chat/space/AAAA2NU9Pu0/1tmB6wGPjJA/1tmB6wGPjJA   chrome://bookmarks/?q=samsung   chrome://sync-internals/  chrome://settings/syncSetup/advanced   chrome://bookmarks/?q=samsung
 
+
 Nahrajte prosím kopii faktury (daňový doklad) ve formátu pdf nebo obrázku (.jpg / .png). Maximální velikost souboru je 3 MB.
 
+
+
+Datum : 29-10-2025
+Model
+WD80J6A10AW/LE
+Sériové číslo
+0SVC5ABM400016N
+Referenční číslo
+2340946721
+Kanál
+Kontaktovat podporu
+Stav
+Uzavřeno
+Žádost o zpětné volání
+8/5 kg pračka se sušičkou WD80J6A10AW Série WD6000
+
+
+WD80J6A10AW/LE
 8/5 kg pračka se sušičkou WD80J6A10AW Série WD6000
 
 0SVC5ABM400016N
@@ -56,8 +79,9 @@ explorer "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\"
 ##file:///C:/Users/marti/OneDrive/1804-JB/samsung-oprava-2510/2195779527.pdf
 
 
-
-
+ALZA.cz 
+05/10/2019
+ 05.10.2019
  Daňový doklad:
  Datum vystavení:
  Datum splatnosti:
@@ -296,4 +320,35 @@ Stáhněte si aplikaci Samsung Shop zde:
 
 https://samsungshop.onelink.me/6zKq/v5bh7lqb?af_qr=c 
 
- 
+ done
+
+
+
+# 251207 cont.
+
+Vítejte na stránce pro zadání servisního požadavku pro výrobky Samsung. Vyberte, zda chcete vytvořit nový servisní požadavek, nebo aktualizovat existující případ s kódem z e-mailu.
+
+vybral možnost vytvoření nového servisního požadavku.
+
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\20251001_160628.jpg"
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\Screenshot_20250922-145441_Samsung Smart Washer.jpg"
+
+
+10/12/2025 09:00
+
+Detaily budou odeslané pro kontrolu. Po potvrzení správnosti vložených informací Vás budeme informovat do 1 pracovního dne o dalším postupu.
+
+Unikátní identifikátor vašeho servisního požadavku je 320365647
+
+
+
+
+ https://www.samsung.com/cz/support/your-service/track-repair-sms  2340946721 Můj požadavek 29/10/2025
+Pračka hlásí chybu HC2 při sušení, prádlo zůstává studené. Při testu
+přes Smart Check hlásí: „Check the drying heater“ 
+
+
+
+Po odeslání formuláře s kompletními informacemi a čitelnými fotografiemi Vám do 1 pracovního dne zavolá náš dispečer, aby s Vámi domluvil všechny detaily výjezdu. Závěrem Vám chci pouze sdělit, že dispečer může volat ze skrytého čísla.
+Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojte k naší Samsung Community.
+
