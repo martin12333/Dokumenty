@@ -13,7 +13,11 @@ https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS
 
 edit. odteď lístek v Google keep bude jen pro výjimečné přídavky z mobilu... oficiální verze dokumentu bude
 toto, co ted ctete ... 
- https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md 
+
+edit. nove url..
+
+https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
+
 
 
 
@@ -28,8 +32,9 @@ https://chat.google.com/room/AAQAiugwWm0?cls=5  funguje i na mobilu
 https://mail.google.com/chat/u/0/#chat/space/AAQAiugwWm0
 
 
-
-
+back link
+podobna skupina na whatsapp
+...
 
 
 
@@ -306,6 +311,7 @@ https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0
 
 
 
+
 ## https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
 
 
@@ -379,7 +385,12 @@ back link
 
 // jina zachranka
 
+old url 
+?plain=1
 https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md 
+
+
+
 
 C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
 
