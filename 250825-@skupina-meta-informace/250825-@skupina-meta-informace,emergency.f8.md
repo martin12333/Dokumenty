@@ -1,5 +1,5 @@
 
-# ℹ️ℹ️ℹ️ℹ️ téma 250825 ... meta info, family digital emergency plan 
+# ℹ️ℹ️ℹ️ℹ️🅰️  téma 250825 ... meta info, family digital emergency plan 
 - // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
 
 - // darek k Vanocum ... zkouset, zda [dokument 250825 ... meta informace, emergency plan] ... doufam jediny odkaz z google chat / skupina 250825 meta informace ... zda odkaz funguje ... i na mobilu 
@@ -28,8 +28,13 @@ toto, co ted ctete ...
   - podobna skupina na whatsapp
 
 
+# for Milan
 
+- vscode f1 markdown preview
+- vscode f1 markdown preview security settings explained 
+https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 
+- ctrl+z undo
 
 
 # todo možná udelat nejake google saved collections of links
@@ -43,20 +48,18 @@ https://www.google.com/interests/saved?authuser=0
 # zachranka apod
 
 
-[Jméno] ZACHRANKA Konzultační Centrum
-[Mobil] 800 888 155
-Jen info ...Málokdo o něm ví. Číslo na konzultační centrum záchranky je těžké dohledat https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
+- ℹ️ℹ️ℹ️ [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
+  - Jen info ...Málokdo o něm ví. Číslo na konzultační centrum záchranky je těžké dohledat https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
 
 
 
-https://www.zachrankaapp.cz/cs/projekt-72-hodin-nove-najdete-i-v-aplikaci-zachranka
+- https://www.zachrankaapp.cz/cs/projekt-72-hodin-nove-najdete-i-v-aplikaci-zachranka
 
 
 
 
 
-# odkaz na ten lístek s kontakty emaily
-https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
+# ℹ️  odkaz na ten lístek s kontakty emaily https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
 #AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW, NEKOPIE #emergency 
 
 
@@ -79,125 +82,11 @@ https://account.microsoft.com/family/home
 
 
 
-
-# emergency ... texts  ... Milan todo
-
-https://www.reddit.com/r/LifeProTips/comments/1ng2g1l/lpt_give_a_trusted_person_emergency_access_to/
-
-
-
-
-
-
-https://github.com/potatoqualitee/eol-dr?tab=readme-ov-file
-
-
-
-https://www.amazon.com/dp/B0FQ3DFVXV?ref=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&ref_=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&social_share=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&bestFormat=true
-Amazon.com: Organize Your Parent’s Digital Life: A Step-by-Step Guide for Adult Children to Organize Aging Parents’ Accounts, Passwords, and Memories eBook : Kit, Digital Legacy: Kindle Store
-
-In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not Around Later - Kindle edition by Schneiderman, Abby, Seifer, Adam, Newman, Gene. Crafts, Hobbies & Home Kindle eBooks @ Amazon.com.
-
-
-
-# ai generovaný obsah pro tento dokument
-
-- personal digital emergency plan
-- family digital emergency plan
-- household emergency plan
-- grab-and-go bag, Bug Out Bag
-- important documents copy
-
-- emergency contacts
-800 888 155
-
-- communication plan
-- evacuation plan
-- meeting points
-- special needs
-- medications
-
-Venlafaxinum 
-Venlafaxin 75 mg 1-0-0
-Mirtazapin 15 mg 0-0-(1/4)
-
-
-- pets
-- important digital information
-- online accounts
-- passwords
-- digital assets
-- backups
-- devices
-- apps
-
-eDoklady
-ZACHRANKA
-
-- offline access
-- training and practice...
-christmas gift
-
-- review and update
-- resources and references
-- templates and checklists
-- additional notes
-- version history
-- acknowledgments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Todo Reddit survival_of_our_info
-C:\Users\marti\OneDrive\Dokumenty\650714-Nohavica-Kometa--information-immortality.f8.md
-
-https://www.reddit.com/r/survival_of_our_info/
-survival of our information as a human desire
-survival_of_our_info
-rmation as a human desire
-
-also a distantly related topic: digital emergency plans  
- 251122
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # ℹ️ℹ️ℹ️ℹ️ podkapitola ... důležitější vlastní webové stránky ... nalepil jsem tam někde svůj life tweet 250918 ... jako bio
 
--- kopie mého life tweet #250918 
+- kopie mého life tweet #250918 
 
-Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
+  - ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
 
 
 
@@ -242,6 +131,109 @@ https://youtube.com/@martinmilan1234?si=HcZ-DKc7HbJhZvzz
 
 
 todo twitter
+
+
+
+
+
+# emergency ... texts  ... Milan todo
+
+https://www.reddit.com/r/LifeProTips/comments/1ng2g1l/lpt_give_a_trusted_person_emergency_access_to/
+
+
+
+
+
+
+https://github.com/potatoqualitee/eol-dr?tab=readme-ov-file
+
+
+
+https://www.amazon.com/dp/B0FQ3DFVXV?ref=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&ref_=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&social_share=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&bestFormat=true
+Amazon.com: Organize Your Parent’s Digital Life: A Step-by-Step Guide for Adult Children to Organize Aging Parents’ Accounts, Passwords, and Memories eBook : Kit, Digital Legacy: Kindle Store
+
+In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not Around Later - Kindle edition by Schneiderman, Abby, Seifer, Adam, Newman, Gene. Crafts, Hobbies & Home Kindle eBooks @ Amazon.com.
+
+
+
+# ai generovaný obsah pro tento dokument
+
+- personal digital emergency plan
+- family digital emergency plan
+- household emergency plan
+- grab-and-go bag, Bug Out Bag
+- important documents copy
+
+- ℹ️ℹ️ℹ️  emergency contacts 800 888 155
+
+- communication plan
+- evacuation plan
+- meeting points
+- special needs
+- ℹ️ℹ️ℹ️ℹ️  medications. Venlafaxinum   Venlafaxin 75 mg 1-0-0, Mirtazapin 15 mg 0-0-(1/4)
+
+
+- pets
+- important digital information
+- online accounts
+- passwords
+- digital assets
+- backups
+- devices
+- ℹ️  apps eDoklady, ZACHRANKA
+
+- offline access
+- ℹ️  training and practice...  a christmas gift
+
+- review and update
+- resources and references
+- templates and checklists
+- additional notes
+- version history
+- acknowledgments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Todo Reddit survival_of_our_info
+C:\Users\marti\OneDrive\Dokumenty\650714-Nohavica-Kometa--information-immortality.f8.md
+
+https://www.reddit.com/r/survival_of_our_info/
+survival of our information as a human desire
+
+also a distantly related topic: digital emergency plans  
+ 251122
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -380,9 +372,11 @@ old url
 ?plain=1
 https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md 
 
+survival_of_our_info
+rmation as a human desire
 
 
 
-C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
+# C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
 
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
