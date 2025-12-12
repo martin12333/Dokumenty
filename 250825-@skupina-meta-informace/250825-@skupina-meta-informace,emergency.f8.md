@@ -30,6 +30,8 @@ toto, co ted ctete ...
 
 # for Milan
 
+- ℹ️ ℹ️ℹ️ ℹ️ℹ️ℹ️ ℹ️ℹ️ℹ️ℹ️ ℹ️ℹ️ℹ️ℹ️🅰️   ℹ️ℹ️ℹ️ℹ️🅰️🅰️    ℹ️ℹ️ℹ️ℹ️🅰️🅰️🅰️  marks importance
+
 - vscode f1 markdown preview
 - vscode f1 markdown preview security settings explained 
 https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
@@ -299,7 +301,7 @@ https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0
 
 
 
-### ℹ️ℹ️ℹ️ℹ️ℹ️  https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
+### ℹ️ℹ️ℹ️ℹ️🅰️   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
 
 maybe the most important book in my life, maybe the biggest surprises in my life
 
@@ -308,7 +310,7 @@ maybe the most important book in my life, maybe the biggest surprises in my life
 
 ### https://chatgpt.com/c/68d7cd8d-dd38-8320-8303-f473985f6484
 
-ℹ️ℹ️ℹ️ℹ️ℹ️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
+ℹ️ℹ️ℹ️ℹ️🅰️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
 
 
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
