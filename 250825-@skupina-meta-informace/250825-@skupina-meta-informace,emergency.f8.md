@@ -1,5 +1,14 @@
 
+
+Can you guess the meaning of the various number of info emojis ℹ️ used here?
+
+
+
 # ℹ️ℹ️ℹ️ℹ️🅰️  téma 250825 ... meta info, family digital emergency plan 
+
+
+
+
 - // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
 
 - // darek k Vanocum ... zkouset, zda [dokument 250825 ... meta informace, emergency plan] ... doufam jediny odkaz z google chat / skupina 250825 meta informace ... zda odkaz funguje ... i na mobilu 
@@ -28,9 +37,25 @@ toto, co ted ctete ...
   - podobna skupina na whatsapp
 
 
+
+# /// from a discussion with AI on 251212 about  my mindfiles
+
+
+
+I work towards creating and collecting  my own Terasem (transhumanist)  mindfiles.
+
+I have prepared the first document.
+
+For historical reasons, the document is named "250825-@skupina-meta-informace,emergency.f8.md".
+
+- My topic 250825 is dedicated to meta information (where to find more information), and it is including my family digital emergency plan.
+
+It is a work in progress.
+
+
+
 # for Milan
 
-- ℹ️ ℹ️ℹ️ ℹ️ℹ️ℹ️ ℹ️ℹ️ℹ️ℹ️ ℹ️ℹ️ℹ️ℹ️🅰️   ℹ️ℹ️ℹ️ℹ️🅰️🅰️    ℹ️ℹ️ℹ️ℹ️🅰️🅰️🅰️  marks importance
 
 - vscode f1 markdown preview
 - vscode f1 markdown preview security settings explained 
@@ -66,7 +91,8 @@ https://www.google.com/interests/saved?authuser=0
 
 
 
-# test whether they can open it
+# test whether the family can open my OneDrive documents folder link
+
 https://onedrive.live.com/?id=%2Fpersonal%2F4b12298d932a2860%2FDocuments%2FDokumenty
 
 link shared with the group : your family ..
@@ -107,7 +133,7 @@ https://www.facebook.com/profile.php?id=100004424177472
 
 
 
-
+ℹ️ todo url to a search in Google chat, google keep, google photos
 
 
 https://www.reddit.com/user/martin_m_n_novy/
@@ -119,17 +145,16 @@ https://www.reddit.com/user/martin_m_n_novy/
 
 # ℹ️ℹ️ méně důležité vlastní webové stránky
 
-Google Keep
-this note itself https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA
 
 ## ℹ️  https://glasp.co/uhu6drb9cmm389j0
 
-todo all
-OneDrive
+todo some folders in OneDrive
 
 todo , Obsidian 
 
-todo all WhatsApp
+todo WhatsApp
+
+
 
 https://www.yousongs.cz/MostPlayed.aspx?Page=6
 
@@ -142,27 +167,8 @@ todo twitter
 
 
 
-# emergency ... texts  ... Milan todo
 
-https://www.reddit.com/r/LifeProTips/comments/1ng2g1l/lpt_give_a_trusted_person_emergency_access_to/
-
-
-
-
-
-
-https://github.com/potatoqualitee/eol-dr?tab=readme-ov-file
-
-
-
-https://www.amazon.com/dp/B0FQ3DFVXV?ref=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&ref_=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&social_share=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&bestFormat=true
-Amazon.com: Organize Your Parent’s Digital Life: A Step-by-Step Guide for Adult Children to Organize Aging Parents’ Accounts, Passwords, and Memories eBook : Kit, Digital Legacy: Kindle Store
-
-In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not Around Later - Kindle edition by Schneiderman, Abby, Seifer, Adam, Newman, Gene. Crafts, Hobbies & Home Kindle eBooks @ Amazon.com.
-
-
-
-# ai generovaný obsah pro tento dokument
+# annotated ... ai generovaný obsah pro tento dokument
 
 - personal digital emergency plan
 - family digital emergency plan
@@ -209,6 +215,30 @@ In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not 
 
 
 
+# emergency ... texts  ... Milan todo
+
+https://www.reddit.com/r/LifeProTips/comments/1ng2g1l/lpt_give_a_trusted_person_emergency_access_to/
+
+
+
+
+
+
+https://github.com/potatoqualitee/eol-dr?tab=readme-ov-file
+
+
+
+https://www.amazon.com/dp/B0FQ3DFVXV?ref=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&ref_=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&social_share=cm_sw_r_ffobk_cp_ud_dp_NVQTASRQWXR7NJBBG22N_1&bestFormat=true
+Amazon.com: Organize Your Parent’s Digital Life: A Step-by-Step Guide for Adult Children to Organize Aging Parents’ Accounts, Passwords, and Memories eBook : Kit, Digital Legacy: Kindle Store
+
+In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not Around Later - Kindle edition by Schneiderman, Abby, Seifer, Adam, Newman, Gene. Crafts, Hobbies & Home Kindle eBooks @ Amazon.com.
+
+
+
+
+
+
+
 
 
 
@@ -244,7 +274,7 @@ also a distantly related topic: digital emergency plans
 
 
 
-# //// ℹ️ Milan .. Todo for this text #250825
+# //// ℹ Milan .. Todo for this text #250825
 
 
 
@@ -261,47 +291,14 @@ související témata
 
 
 
-ℹ️ Todo existuje lístek 270611 350714 #250825 alzheimer digital prepping by learning to use chatgpt   reddit https://www.reddit.com/r/Alzheimers/comments/1m2o9ci/chatgpt_is_saving_me/ https://www.reddit.com/user/Kalepa2/
-
-
-
-
-
-# //// ℹ️ Milan .. devel of this text #grow
-
-
-
-
-......songs, písně ,Tumša nakte, zaļa zāle Laukā laidu kumeliņu
-01x-02x-03x-06x-07x
-
-
-
-## search for 250825 
-https://github.com/search?q=owner%3Amartin12333%20250825&type=code
-https://onedrive.live.com/?id=root&cid=4B12298D932A2860&q=250825%20&ft=31&searchsessionid=4d39e10a%2D30a4%2D4e08%2D914f%2D32b55225e891&view=7
-
-## moved
-
-C:\Users\marti\OneDrive\1703-IJMVA\250825-250831-@skupina-meta-informace-aaaaAAA-00000-CORE1000\250825-250826-250831-@skupina-meta-informace-aaaaAAA-00000-CORE1000.f8.md
-
-https://github.com/martin12333/marti-onedrive/tree/main2/1703-IJMVA/250825-250831-%40skupina-meta-informace-aaaaAAA-00000-CORE1000
-
-
-
-
-# //// ℹ️ Milan .. devel of my life tweet  #250918
-
-https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX
+# ℹ️ℹ️ Todo existuje lístek 270611 350714 #250825 alzheimer digital prepping by learning to use chatgpt   reddit https://www.reddit.com/r/Alzheimers/comments/1m2o9ci/chatgpt_is_saving_me/ https://www.reddit.com/user/Kalepa2/
 
 
 
 
 
 
-
-
-### ℹ️ℹ️ℹ️ℹ️🅰️   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
+# ℹ️ℹ️ℹ️ℹ️🅰️   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
 
 maybe the most important book in my life, maybe the biggest surprises in my life
 
@@ -313,7 +310,7 @@ maybe the most important book in my life, maybe the biggest surprises in my life
 ℹ️ℹ️ℹ️ℹ️🅰️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
 
 
-## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
+# ℹ️ℹ️ℹ️ℹ️ dle filosofie dr. Praška a antifragility ... možná se rodina pro příštích 50 let trochu posílila ...
 
 kdyby se rodina z mých havárií poučila ...
 
@@ -322,16 +319,65 @@ kdyby se někdo zajímal o to, co jsem vykopal z wikipedie a internetu, a ověř
 
 
 
+# ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md todo new url to github.com/digital-gardens/Martin-Milan/
+
+old https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
 
 
-## related local
 
-## planned to be moved
+
+
+
+
+
+
+
+
+
+# //// old  Milan .. old devel of this text #grow
+
+
+
+
+......songs, písně ,Tumša nakte, zaļa zāle Laukā laidu kumeliņu
+01x-02x-03x-06x-07x
+
+
+
+## old search for 250825 
+https://github.com/search?q=owner%3Amartin12333%20250825&type=code
+https://onedrive.live.com/?id=root&cid=4B12298D932A2860&q=250825%20&ft=31&searchsessionid=4d39e10a%2D30a4%2D4e08%2D914f%2D32b55225e891&view=7
+
+## already moved
+
+C:\Users\marti\OneDrive\1703-IJMVA\250825-250831-@skupina-meta-informace-aaaaAAA-00000-CORE1000\250825-250826-250831-@skupina-meta-informace-aaaaAAA-00000-CORE1000.f8.md
+
+https://github.com/martin12333/marti-onedrive/tree/main2/1703-IJMVA/250825-250831-%40skupina-meta-informace-aaaaAAA-00000-CORE1000
+
+
+
+
+# //// old Milan .. old devel of my life tweet  #250918
+
+https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX
+
+
+
+
+
+
+
+
+
+
+## old related local
+
+## old planned to be moved
 C:\Users\marti\OneDrive\ntidep\250831-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
 
 
 
-## devel nonshared mobil
+## old devel nonshared mobil
 https://keep.google.com/#NOTE/1d6ErXkNYGwnEauqAlzA3dTfoJBqN42TJxR1KCjikrxbaJXwAMYrAVx_jY6R45UrxJCNT
 
 
@@ -376,10 +422,3 @@ survival_of_our_info
 rmation as a human desire
 
 
-
-# ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md todo new url to github.com/digital-gardens/Martin-Milan/
-
-old https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
-
-
-## ℹ️ℹ️ℹ️ℹ️  dle filosofie dr. Praška a antifragility ... možná se rodina pro příštích 50 let trochu posílila ...
