@@ -413,3 +413,30 @@ https://www.diigo.com/user/martin12333?query=%23todo
 [https://www.czc.cz/doprava-a-platba/clanek](https://www.czc.cz/doprava-a-platba/clanek)
 
 - Komfortní způsob dopravy po Praze. Zboží, které je skladem v Rudné, vám doručíme ještě ten samý den. Objednávky přijímáme do 14:30. Rozvoz probíhá v čase od 10:00 do 22:00. Uvádějte prosím vždy své telefonní číslo, řidič vás bude kontaktovat. Při dobírce není možné platit kartou. Službu pro CZC.cz zajišťuje společnost [www.premiumkuryr.cz](http://www.premiumkuryr.cz/).
+
+
+
+
+https://www.diigo.com/user/martin12333?query=billa
+https://shop.billa.cz/faq
+Čas doručení si vybíráte sami při vytváření objednávky. Dostupné časy uvidíte před dokončením objednávky ve svém košíku. Jakmile řidič vyrazí na vaši adresu, pošleme vám SMS s detailem objednávky a s možností sledovat pohyb vozidla. 
+https://shop.billa.cz/ukonceni-provozu
+https://www.zboziaprodej.cz/2025/09/11/billa-se-spojila-s-foodorou-do-60-minut-doruci-zakaznikum-objednavku-v-ceskych-budejovicich-usti-nad-labem-i-pardubicich/
+
+
+
+
+Služba ¨"Expresso", která podle dostupnosti lokality doručí jakýkoli sortiment, který je v daný den skladem do hodiny až devadesáti minut,
+
+
+
+https://cc.cz/tag/quick-commerce/
+
+https://www.shopsys.cz/hlavne-rychle-quick-commerce/
+
+https://www.kupi.cz/magazin/clanek/18466-co-je-to-q-commerce-a-proc-je-na-vzestupu
+
+https://www.hrot24.cz/clanek/byznys-briefing-vzestup-a-pad-quick-commerce-proc-samotna-rychlost-nestaci-HZ7s3
+
+https://www.lupa.cz/aktuality/billa-zavre-vlastni-online-shop-partneri-v-quick-commerce-to-zvladnou-efektivneji-naznacuje/nazory/
+
