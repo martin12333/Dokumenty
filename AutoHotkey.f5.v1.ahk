@@ -266,7 +266,7 @@ ClipChanged(Type) {
 
 
 
-;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)
+;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)řčžřčž
 
 ;251213   commented out------------------------------
 #If false
@@ -336,21 +336,18 @@ $[::Send []{Left}      ;;; insert square brackets
 
 
 
-$NumpadDot::Send {;}
 $;::Send {:}
 
-
 ;  I HAVE AN EURO KEYBOARD
-
 ;DC  02B	 	u	0.13	\         backslash
 ;not E2  056	 	u	0.16	\   backslash
 ;test ......;.;.;:::;;""""\\""\\""\\;;;  """"""""
-
 
 $SC02B::Send {"}
 ; "
 ; this "" in the comment is for :  the  sx hilite  of *.ini   in vsc
 ; my VSC: sx hilite is of *.ini ...  not  of *.ahk
+$NumpadDot::Send {;}
 
 
 
