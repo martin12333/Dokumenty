@@ -276,7 +276,38 @@ https://www.diigo.com/user/martin12333?query=%23todo
     
 - ři předání zásilky budete řidičem vyzváni ke sdělení hesla. Případně se můžete prokázat dokladem totožnosti. Podrobnosti najdete [zde](https://www.zasilkovna.cz/blog/vydej-pres-heslo-u-zasilek-dorucovanych-na-adresu).
 
-[MESSENGER - meziměstská přeprava](https://www.messenger.cz/sluzby/mezimestska-preprava.html)
+# [MESSENGER - meziměstská přeprava](https://www.messenger.cz/sluzby/mezimestska-preprava.html)
+
+
+
+
+
+---
+title: "(20+) Facebook"
+source: "https://www.facebook.com/photo.php?fbid=1156048258954174&id=100036470331515&set=a.777048470187490"
+author:
+published:
+created: 2025-12-14
+description: "SLEDOVÁNÍ ZÁSILEK 🔍Netrpělivě vyhlížíte kurýra z okna, kdy už vám přiveze objednaný balíček z e-shopu? Nemusíte! Na online trackingu najdete veškeré..."
+tags:
+  - "clippings"
+---
+MESSENGER CZ
+April 22, 2024
+ ·
+SLEDOVÁNÍ ZÁSILEK 🔍
+Netrpělivě vyhlížíte kurýra z okna, kdy už vám přiveze objednaný balíček z e-shopu? Nemusíte!
+Na online trackingu najdete veškeré informace o zásilce a v den doručení i mapu, kde se právě kurýr s vaší zásilkou nachází. 😎
+Odkaz na tracking najdete v klientské zóně nebo pokud jste příjemce, obdržíte odkaz v SMS zprávě či přímo od e-shopu, kde jste nakoupili.
+
+Tracking najdete na naší nové doméně www.msng.cz 🌐
+Comments
+No comments yet
+Be the first to comment.
+
+https://www.instagram.com/p/C6HTW71vagx/
+
+
 
 [https://www.messenger.cz/sluzby/mezimestska-preprava.html](https://www.messenger.cz/sluzby/mezimestska-preprava.html)
 
@@ -340,7 +371,17 @@ https://www.diigo.com/user/martin12333?query=%23todo
     Pro bližší informace ohledně stavu a termínu dodání je možné využít informační linku přepravce: **220 400 000**.
     
 
-[Liftago](https://www.alza.cz/liftago)
+# [Liftago](https://www.alza.cz/liftago)
+
+
+
+
+Jak se příjemce dozví o blížící se zásilce?
+
+Příjemce obdrží SMS s odhadovaným časem příjezdu kurýra a odkazem na sledování zásilky v reálném čase.
+
+Potřebuji něco expresně doručit, pomůže mi Liftago?
+
 
 [https://www.alza.cz/liftago](https://www.alza.cz/liftago)
 
@@ -452,3 +493,12 @@ https://www.lupa.cz/aktuality/billa-zavre-vlastni-online-shop-partneri-v-quick-c
 
 
 https://mobilni-telefony.heureka.cz/f:1666:2;26285:40701140,40730219;s:1/?o=4
+
+
+
+# gpt 
+messenger
+liftago
+Tvoje sources, citations.. webové odkazy ... nefungují ..musel jsem lezt do devtools a googlit snippety např. Jak se příjemce dozví o blížící se zásilce? Příjemce obdrží SMS s odhadovaným časem příjezdu kurýra a odkazem na sledování zásilky v reálném čase.
+
+
