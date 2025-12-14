@@ -90,7 +90,13 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 - Tento způsob dopravy nabízíme pouze pro zboží do 20 kg, s nejdelší stranou do 60 cm a součtem všech stran do 240 cm.
     
-       
+
+
+
+251213    Pro tento způsob doručení využíváme společnost Liftago, která pro vás objednané zboží vozí z prodejen. Abychom mohli zboží doručit, je nutné, aby bylo skladem na některé z prodejen ve vašem okolí a zároveň dostupné na centrálním skladě. Pokud vaše objednávka tuto podmínku nesplňuje, nebude možné pro vaši adresu službu využít.
+
+
+   
     
 
 [Expresní doprava po Praze s DODO | Electroworld.cz](https://www.electroworld.cz/expresni-doprava-po-praze-s-dodo)
@@ -123,6 +129,9 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
     
     Platí pro objednávky vytvořené do 14 hodin a zboží skladem. Rozvoz pouze v pracovní dny.
     
+
+-- nemůžu najít
+
 - WE|DO
     
     Balíček vám doveze kurýr až domů nebo třeba do práce
@@ -411,9 +420,17 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
 - Pozor - při přebíraní zásilky budete požádaní o osobní identifikaci: PIN kód nebo podpis.
     
        
-    
+
+
+    251213
 - V košíku zvolte při výběru dopravy Expresní doručení **Liftago - doručení do 60 min**. Pokud tuto možnost nevidíte, v objednávce máte zboží, které nesplňuje podmínky pro doručení Liftagem.
     
+
+
+
+
+
+
 - sponující PIN kódem k převzetí objednávky. Na telefonní číslo příjemce je před samotným doručením zaslána sms s PIN kódem, který je třeba sdělit řidiči. Prosíme tedy o upřesnění komu budeme zásilku předávat do poznámky k objednávce, abychom na to mohli dopředu upozornit řidiče
 - je skladem na showroomu a pobočkách, kde službu Liftago provozujeme. Hmotnost zboží do 25 kg a rozměry max. 55 x 45 x 25 cm. Pro větší zásilky je potřeba využit [alternativní způsoby přepravy](https://www.diigo.com/doprava-prehled-moznosti-art1456.htm). V případě vyzvednutí velké zásilky doporučujeme využít [Alza Point](https://www.diigo.com/alzapoint).
 
@@ -466,8 +483,7 @@ https://www.zboziaprodej.cz/2025/09/11/billa-se-spojila-s-foodorou-do-60-minut-d
 
 
 
-
-Služba ¨"Expresso", která podle dostupnosti lokality doručí jakýkoli sortiment, který je v daný den skladem do hodiny až devadesáti minut,
+-----Služba ¨"Expresso", která podle dostupnosti lokality doručí jakýkoli sortiment, který je v daný den skladem do hodiny až devadesáti minut,
 
 
 
@@ -487,8 +503,10 @@ https://www.lupa.cz/aktuality/billa-zavre-vlastni-online-shop-partneri-v-quick-c
 
 
 
-
+251213
 # https://www.mp.cz/doprava
+Termín doručení je do 1 hodiny od učinění objednávky, pokud je objednávka učiněna od 9:00 do 17:30.
+Jedná se o garantované, rychlé a kvalitní doručení v rámci Prahy a dalších vybraných měst.
 
 
 
@@ -500,5 +518,31 @@ https://mobilni-telefony.heureka.cz/f:1666:2;26285:40701140,40730219;s:1/?o=4
 messenger
 liftago
 Tvoje sources, citations.. webové odkazy ... nefungují ..musel jsem lezt do devtools a googlit snippety např. Jak se příjemce dozví o blížící se zásilce? Příjemce obdrží SMS s odhadovaným časem příjezdu kurýra a odkazem na sledování zásilky v reálném čase.
+
+https://www.samsung.com/cz/shop-faq/payment-and-delivery/?srsltid=AfmBOopiLjcLsBBXx6oesbFCAxTWZpT4ZKtRiHU_IFAJ4fSBIbNagtXv
+
+Jaké jsou podmínky expresního doručení službou DoDo po Praze?
+
+Cena dopravy: ZDARMA (k dispozici pouze v Praze)
+
+Expresní způsob doručení zboží pouze po Praze. Při objednání do 15:00 (PO-PÁ) doručení ještě dnes v době 17:00-21:00.
+
+Zboží, které objednáte v pracovní den do 15:00, vám DODO doručí stejný den mezi 17 - 21 hodinou.
+
+Doprava je určena pro přepravu zboží malých rozměrů, například mobilních telefonů, příslušenství, soundbarů, vysavačů atd.
+
+ 
+
+Jaké jsou podmínky expresního dourčení službou Messenger po Praze?
+
+Cena dopravy: ZDARMA (k dispozici pouze v Praze)
+
+Expresní způsob doručení zboží pouze po Praze. Při objednání do 13:00 (PO-PÁ) doručení ještě dnes
+
+Zboží, které objednáte v pracovní den do 13:00, vám Messenger doručí stejný den do 17:00.
+
+Doprava je určena pro přepravu zboží malých rozměrů, například mobilních telefonů, příslušenství, soundbarů, vysavačů atd..
+
+
 
 
