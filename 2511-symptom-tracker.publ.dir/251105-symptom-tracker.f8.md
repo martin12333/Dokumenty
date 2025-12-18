@@ -1,9 +1,8 @@
-# SEE ALSO [[251211-IDEAS.publ]]
 
+# SEE ALSO [[251211-IDEAS.publ]]
 
 ===a
 💚⏰!
-
 
 
 - [vscode extension](#vscode-extension)
@@ -17,6 +16,7 @@
 	- [](#-2)
 	- [](#-3)
 - [2025-11-27](#2025-11-27)
+
 - [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition)
 	- [](#-4)
 	- [](#-5)
@@ -507,6 +507,35 @@ extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
 
 Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému tělesu @
 
+# 2025-12-17  251217
+
+# 2025-12-18  251218
+
+19:30 lék3 + 5		probuzení		💚⏰, v uvozovkách.. OBNOVIL dýchání
+- r/dysautonomia breathing exercises
+- ai poznámka: Dýchací cvičení mohou pomoci regulovat autonomní nervový systém, což je zvláště užitečné pro osoby s dysautonomií.
+- ai poznámka: Pravidelné praktikování dýchacích cvičení může zlepšit schopnost těla zvládat stres a úzkost, což jsou běžné problémy spojené s dysautonomií.
+- ai poznámka: Dýchací cvičení mohou také pomoci zlepšit okysličení krve a celkovou pohodu, což je důležité pro osoby s dysautonomií, které mohou mít problémy s krevním tlakem a srdeční frekvencí.
+
+pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
+
+
+
+semi-realtime 
+svaly okolo očí 
+
+daří se mi dýchat pomalu a hluboce
+daří se mi dýchat nosem
+daří se mi dýchat břichem
+
+daří se mi peristaltika 
+
+
+21:00 teď co toto píšu
+daří se mi psaní na pc,
+
+
+# 2025-12-19  251219
 
 
 
@@ -518,10 +547,10 @@ Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému 
 
 # @jb chat jde zalezt . edit last  .   klavesnice up arrow 
 
-@ed 
 # žít svůj sen
 youtube 
 https://www.youtube.com/watch?v=vCMr76HuNzk
+@ 
 
 
 # // nejtěžší mi připadají bugy v mojí životní rutině
@@ -536,6 +565,12 @@ ai generated mostly
 //// jak si udržet smysl života, když
 //// jak si udržet vztahy, když 
 //// jak si udržet naději, když 
+
+
+# my ... human patient, interrupt handling
+
+
+
 
 
 # I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition
@@ -568,13 +603,12 @@ CPU Interrupt Handling
 - After handling the interrupt, the CPU restores the saved state from the stack.
 
 
-# https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc
-
-C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251105-symptom-tracker.f8.md
+// https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc
+///C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251105-symptom-tracker.f8.md
 
 # I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition
 
-## my ... human patient, interrupt handling
+# my ... human patient, interrupt handling
 
 - The brain receives a sudden stimulus (e.g., a request for attention from the family)
 - the brain is afraid of losing short-term memory of the current task, and of losing working memory context, and of losing mid-term memory 
@@ -588,10 +622,8 @@ C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251105-symptom-t
 - After addressing the interrupt, the brain retrieves the saved context from the note and resumes the original task.
 
 
-
 ## 
 250825
-
 
 Human short-term memory capacity is estimated to be around 7±2 syllables ... LLM analogy could be 7 tokens in a vector in the layers, that are ...
 
@@ -601,12 +633,7 @@ Humans have mid-term memory that can store information for days to months ... LL
 
 Long-term memory in humans can store vast amounts of information for years ... LLM analogy could be the pre-trained knowledge base that the model draws from during inference ...
 
-
-
-
 //... my brain  💚⏰!
-
-
 
 
 ## disk full
@@ -616,15 +643,7 @@ f1
 view / toggle primary sidedbar 
 
 
-
-
-
-
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
-
-
-
-
 
 bych si přál
 
@@ -647,9 +666,7 @@ s větší pravděpodobností
 
 * raději víc riskovat v jiných oblastech ... antifragilita ... souvisí s kognitivně-behaviorální terapií ... vystavovat se nepohodlí, stresu, zátěži, bolesti, nejistotě, neznámému, novému, změně, výzvám, rizikům, neúspěchům, selháním ... abych byl silnější, odolnější, adaptabilnější, pružnější, houževnatější ... a méně křehký
 
-
 # udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!
-
 
 -- ai píše
 
@@ -662,21 +679,12 @@ s větší pravděpodobností
 
 nestačí víc jíst
 
-
 je potřeba také
 
 víc trávit
 
 * dělat víc přestávek při práci 
 * jíst pomaleji
-
-
-
-
-
-
-
-
 
 💚⏰!
 

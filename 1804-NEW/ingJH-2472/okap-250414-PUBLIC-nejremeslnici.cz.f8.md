@@ -18,6 +18,7 @@ exit
 
 
 
+
 - [PRISTE MEL JIM DAT ROVNOU TELEFON NA NAS ... FATALNI CHYBA ZE TO NEUDELAL PROTOZE asi me.....](#priste-mel-jim-dat-rovnou-telefon-na-nas--fatalni-chyba-ze-to-neudelal-protoze-asi-me)
 - [priste pouzit onedrive nikoli icacls pro win milana](#priste-pouzit-onedrive-nikoli-icacls-pro-win-milana)
 	- [nastestii nepresejvil jsem si to](#nastestii-nepresejvil-jsem-si-to)
@@ -54,6 +55,10 @@ exit
 
 
 # links
+
+google chat 
+
+todo Update
 C:\Users\marti\OneDrive\1804-M\ing.J.Hendrych\okap-250414.md
 not f8 
 nesdilena alba apod
