@@ -1,9 +1,43 @@
 
+
+consider renaming the file to 251212
+.tagged
+.weighted
+.lines
+.FILETYPE.publ.md
+
+
+
 🕊️ **Break reminder:** take a short pause, stretch, hum a few bars of something calm, or glance at your *topic 012* for a moment before continuing.
 
 251212-weighted-tree-md.FILETYPE.publ.md
 tagged tree notations 
 experiments
+
+
+
+- [for Milan](#for-milan)
+- [file:///C:\\Users\\marti\\OneDrive\\Dokumenty\\250825-@skupina-meta-informace\\250825-@skupina-meta-informace,emergency.f8.md](#filecusersmartionedrivedokumenty250825-skupina-meta-informace250825-skupina-meta-informaceemergencyf8md)
+- [ℹ️ℹ️ℹ️ℹ️🅰️  téma 250825 ... meta info, family digital emergency plan](#ℹ️ℹ️ℹ️ℹ️️--téma-250825--meta-info-family-digital-emergency-plan)
+- [zachranka apod](#zachranka-apod)
+- [251212](#251212)
+- [in the file 250825-@skupina-meta-informace,emergency.f8.md ... Can you guess the meaning of the various number of info emojis ℹ️ used there?](#in-the-file-250825-skupina-meta-informaceemergencyf8md--can-you-guess-the-meaning-of-the-various-number-of-info-emojis-ℹ️-used-there)
+- [gemini summary](#gemini-summary)
+- [/// from a discussion with AI on 251212 about  my mindfiles](#-from-a-discussion-with-ai-on-251212-about--my-mindfiles)
+- [today's synonyms for Terasem mindfiles](#todays-synonyms-for-terasem-mindfiles)
+		- [🧠 **Scientific / Technical**](#-scientific--technical)
+		- [💡 **Philosophical / Poetic**](#-philosophical--poetic)
+		- [⚙️ **Pragmatic / Everyday**](#️-pragmatic--everyday)
+		- [🌐 **Transhumanist / Futurist**](#-transhumanist--futurist)
+- [gemini](#gemini)
+		- [1. Direct Terasem/Lifenaut Synonyms](#1-direct-terasemlifenaut-synonyms)
+		- [2. Modern Tech \& AI Industry Terms](#2-modern-tech--ai-industry-terms)
+		- [3. Descriptive \& Academic Terms](#3-descriptive--academic-terms)
+		- [Summary of Differences](#summary-of-differences)
+		- [Next Step](#next-step)
+- [ai generated ideas:](#ai-generated-ideas)
+
+
 
 
 
@@ -17,6 +51,33 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 - ctrl+k v split preview?
 - ctrl+z undo
 - github desktop commit push
+
+
+# links
+
+
+[[251105-symptom-tracker.f8#hashtags in markdown files]]
+# hashtags in markdown files
+#rrrr-rrr
+#iiii-i
+#iii
+
+file:///C:\Users\marti\OneDrive\Dokumenty\01-251218-Headphone-Healing.publ.md
+
+* * * 
+===251218
+experiments
+
+* ** *
+* * ***  ℹ️iii  ===========binaural beats for more than 30 minutes at a time can cause headaches. For that reason, my sleep tracks will include 30 minutes of binaural beats followed by 8 hours of soothing sounds because if you wake up during the night, the sounds can help you get back to sleep.
+
+* * * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
+    * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
+* * * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
+  * * * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
+
+
+
 
 
 # file:///C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
