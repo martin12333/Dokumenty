@@ -1,21 +1,27 @@
 
-# SEE ALSO [[251211-IDEAS.publ]]
+
+
+
+# další dny přidávat 20 řádek před koncem souboru
 
 ===a
-💚⏰!
+💚⏰
 
 
-- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl)
+- [další dny přidávat 20 řádek před koncem souboru](#další-dny-přidávat-20-řádek-před-koncem-souboru)
+- [links](#links)
 - [vscode extension](#vscode-extension)
+- [hashtags in markdown files](#hashtags-in-markdown-files)
 - [](#)
+- [](#-1)
 - [todo ...  existing recommended vscode extenstions to insert timestamp ... to track symptoms in markdown files](#todo---existing-recommended-vscode-extenstions-to-insert-timestamp--to-track-symptoms-in-markdown-files)
 - [ai generated symptom tracking log](#ai-generated-symptom-tracking-log)
 - [2025-11-04](#2025-11-04)
 - [2025-11-13](#2025-11-13)
-- [](#-1)
+- [](#-2)
 - [2025-11-17](#2025-11-17)
-	- [](#-2)
 	- [](#-3)
+	- [](#-4)
 - [2025-11-27](#2025-11-27)
 - [2025-11-29](#2025-11-29)
 	- [prompt pride 25090 251129 https://keep.google.com/#NOTE/1gQT7ckz6Kad\_TTKb94KwJnmysb9Hzhe2RwuHpUcF7e6vHuOypazxbXWchET5Og](#prompt-pride-25090-251129-httpskeepgooglecomnote1gqt7ckz6kad_ttkb94kwjnmysb9hzhe2rwuhpucf7e6vhuoypazxbxwchet5og)
@@ -23,25 +29,27 @@
 - [2025-12-03](#2025-12-03)
 - [2025-12-06](#2025-12-06)
 - [2025-12-07](#2025-12-07)
-- [2025-12-17  251217](#2025-12-17--251217)
-- [2025-12-18  251218](#2025-12-18--251218)
-- [2025-12-19  251219](#2025-12-19--251219)
-- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl-1)
+- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl)
 - [@jb chat jde zalezt . edit last  .   klavesnice up arrow](#jb-chat-jde-zalezt--edit-last-----klavesnice-up-arrow)
 - [žít svůj sen](#žít-svůj-sen)
 - [// nejtěžší mi připadají bugy v mojí životní rutině](#-nejtěžší-mi-připadají-bugy-v-mojí-životní-rutině)
 - [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition)
-	- [](#-4)
 	- [](#-5)
 - [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition-1)
 - [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
-	- [](#-6)
+- [250825 Human short-term memory capacity is estimated to be around 7±2 syllables ... LLM analogy could be 7 tokens in a vector in the layers, that are ...](#250825-human-short-term-memory-capacity-is-estimated-to-be-around-72-syllables--llm-analogy-could-be-7-tokens-in-a-vector-in-the-layers-that-are-)
 	- [disk full](#disk-full)
+- [2025-12-17  251217](#2025-12-17--251217)
+- [2025-12-18  251218](#2025-12-18--251218)
+- [2025-12-19  251219](#2025-12-19--251219)
+- [2025-12-20  251220](#2025-12-20--251220)
 - [Z hlediska roku 2026, 2030, 2040 💚⏰!](#z-hlediska-roku-2026-2030-2040-)
 - [udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!](#udržet-tělesnou-váhu-mám-značnou-podváhu-a-podvýživu-)
-- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl-2)
 
 
+# links
+
+ SEE ALSO [[251211-IDEAS.publ]]
 
 
 
@@ -595,56 +603,6 @@ Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému 
 
 
 
-# 2025-12-17  251217
-
-# 2025-12-18  251218
-
-19:30 lék3 + 5		probuzení		
-ℹ️ℹ️💚⏰, v uvozovkách.. OBNOVIL dýchání
-- r/dysautonomia breathing ?
-- exercises
-- ai poznámka: Dýchací cvičení mohou pomoci regulovat autonomní nervový systém, což je zvláště užitečné pro osoby s dysautonomií.
-- ai poznámka: Pravidelné praktikování dýchacích cvičení může zlepšit schopnost těla zvládat stres a úzkost, což jsou běžné problémy spojené s dysautonomií.
-- ai poznámka: Dýchací cvičení mohou také pomoci zlepšit okysličení krve a celkovou pohodu, což je důležité pro osoby s dysautonomií, které mohou mít problémy s krevním tlakem a srdeční frekvencí.
-
-ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
-semi-realtime takt nádech výdech
-
-svaly okolo očí , obočí
-
-daří se mi
-- ai poznámka:
- dýchat pomalu a hluboce
-daří se mi dýchat nosem
-daří se mi dýchat břichem
-
-daří se mi peristaltika 
-- ai poznámka:
-daří se mi uvolnit ramena
-
-
-21:00 teď co toto píšu
-daří se mi psaní na pc,
-pořád ještě broukám si melodii z pink floyd. shine on you crazy diamond
-
-21:30 1968
-Bratříčku 
-broukám
-Můj bratře můj
-
-22:00 
-gemini
-emoji mix of ℹ️💚 
-
-
-# 2025-12-19  251219
-
-
-
-# 2025-12-20  251220
-
-
-
 
 
 # SEE ALSO [[251211-IDEAS.publ]]
@@ -731,6 +689,9 @@ CPU Interrupt Handling
 
 # I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition
 
+
+
+
 # my ... human patient, interrupt handling
 
 - The brain receives a sudden stimulus (e.g., a request for attention from the family)
@@ -745,10 +706,7 @@ CPU Interrupt Handling
 - After addressing the interrupt, the brain retrieves the saved context from the note and resumes the original task.
 
 
-## 
-250825
-
-Human short-term memory capacity is estimated to be around 7±2 syllables ... LLM analogy could be 7 tokens in a vector in the layers, that are ...
+#  250825 Human short-term memory capacity is estimated to be around 7±2 syllables ... LLM analogy could be 7 tokens in a vector in the layers, that are ...
 
 Human working memory capacity is estimated to be around 4 chunks ... LLM analogy could be 4 attention heads focusing on different parts of the input ...
 
@@ -766,44 +724,99 @@ f1
 view / toggle primary sidedbar 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# 2025-12-17  251217
+
+# 2025-12-18  251218
+
+19:30 lék3 + 5		probuzení		
+ℹ️ℹ️💚⏰, v uvozovkách.. OBNOVIL dýchání
+- r/dysautonomia breathing ?
+- exercises
+- ai poznámka: Dýchací cvičení mohou pomoci regulovat autonomní nervový systém, což je zvláště užitečné pro osoby s dysautonomií.
+- ai poznámka: Pravidelné praktikování dýchacích cvičení může zlepšit schopnost těla zvládat stres a úzkost, což jsou běžné problémy spojené s dysautonomií.
+- ai poznámka: Dýchací cvičení mohou také pomoci zlepšit okysličení krve a celkovou pohodu, což je důležité pro osoby s dysautonomií, které mohou mít problémy s krevním tlakem a srdeční frekvencí.
+
+ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
+semi-realtime takt nádech výdech
+
+svaly okolo očí , obočí
+
+daří se mi
+- ai poznámka:
+ dýchat pomalu a hluboce
+daří se mi dýchat nosem
+daří se mi dýchat břichem
+
+daří se mi peristaltika 
+- ai poznámka:
+daří se mi uvolnit ramena
+
+
+21:00 teď co toto píšu
+daří se mi psaní na pc,
+pořád ještě broukám si melodii z pink floyd. shine on you crazy diamond
+
+21:30 1968
+Bratříčku 
+broukám
+Můj bratře můj
+
+22:00 
+gemini
+emoji mix of ℹ️💚 
+
+
+# 2025-12-19  251219
+
+
+
+# 2025-12-20  251220
+
+
+
+
+# 2025-12-27 
+
+
+
+
+
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 
 bych si přál
-
 nebýt často v nemocnici na psychiatrickém oddělení
-
 ...
-
 je důležitější
-
 naučit se
-
 s větší pravděpodobností
 
-
 -- dlouhé seznamy doplňuje ai
-
 * udržet tělesnou váhu (mám značnou podváhu a podvýživu)
-
 * slušněji se bránit požadavkům okolí na můj čas, energii, pozornost, péči, pomoc, služby, zdroje ... a mít víc času, energie, pozornosti, péče, pomoci, služeb, zdrojů pro sebe
-
 * raději víc riskovat v jiných oblastech ... antifragilita ... souvisí s kognitivně-behaviorální terapií ... vystavovat se nepohodlí, stresu, zátěži, bolesti, nejistotě, neznámému, novému, změně, výzvám, rizikům, neúspěchům, selháním ... abych byl silnější, odolnější, adaptabilnější, pružnější, houževnatější ... a méně křehký
 
 # udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!
 
 -- ai píše
-
 * jíst více tuků
 * jíst více kalorií
 * jíst více bílkovin
 * jíst více sacharidů
 
 ... dlouhodobě
-
 nestačí víc jíst
-
 je potřeba také
-
 víc trávit
 
 * dělat víc přestávek při práci 
@@ -811,6 +824,11 @@ víc trávit
 
 💚⏰!
 
-# SEE ALSO [[251211-IDEAS.publ]]
 
+- [žít svůj sen](#žít-svůj-sen)
+- [// nejtěžší mi připadají bugy v mojí životní rutině](#-nejtěžší-mi-připadají-bugy-v-mojí-životní-rutině)
 - [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
+
+
+- [další dny přidávat 20 řádek před koncem souboru](#další-dny-přidávat-20-řádek-před-koncem-souboru)
+
